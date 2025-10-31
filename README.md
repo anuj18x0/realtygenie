@@ -1,6 +1,8 @@
 # 🏡 RealtyGenie Pro
 ## AI-Powered Property Marketing Revolution
 
+### VIDEO : https://drive.google.com/file/d/1HLPdL6IHRytLW_KCNpcePKZr9WfUemaK/view?usp=sharing
+
 <img width="1907" height="968" alt="Screenshot 2025-10-31 230137" src="https://github.com/user-attachments/assets/3788a435-869a-479d-b0d8-56e8b4a83476" />
 <img width="1901" height="971" alt="Screenshot 2025-10-31 230219" src="https://github.com/user-attachments/assets/2f63987c-a45c-4fd6-96ed-10e33828e107" />
 
