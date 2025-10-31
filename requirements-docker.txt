@@ -1,0 +1,28 @@
+# RealtyGenie Pro - Docker Optimized Requirements
+# Minimal dependencies for containerized deployment
+
+# Web Framework
+streamlit>=1.28.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0
+
+# Deep Learning & AI (CPU versions for smaller image)
+torch>=2.0.0+cpu
+torchvision>=0.15.0+cpu
+transformers>=4.30.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+plotly>=5.15.0
+
+# Utilities
+requests>=2.31.0
+python-dateutil>=2.8.2
+
+# Performance
+accelerate>=0.20.0

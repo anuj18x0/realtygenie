@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# AI Models (large files)
+*.pt
+*.pth
+*.ckpt
+models/
+
+# Generated content
+outputs/*.txt
+descriptions/*.txt
+descriptions/*.json
+processed_images/*.jpg
+processed_images/*.png
+processed_images/*.jpeg
+processed_images/*.webp
+
+# Configuration files
+*.json
+!requirements.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Sample images (keep folder structure)
+images/*.jpg
+images/*.jpeg
+images/*.png
+images/*.webp
+!images/.gitkeep
