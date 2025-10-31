@@ -1,6 +1,11 @@
 # 🏡 RealtyGenie Pro
 ## AI-Powered Property Marketing Revolution
 
+<img width="1907" height="968" alt="Screenshot 2025-10-31 230137" src="https://github.com/user-attachments/assets/3788a435-869a-479d-b0d8-56e8b4a83476" />
+<img width="1901" height="971" alt="Screenshot 2025-10-31 230219" src="https://github.com/user-attachments/assets/2f63987c-a45c-4fd6-96ed-10e33828e107" />
+
+
+
 Transform raw property images into stunning social media content in seconds with professional AI enhancement, compelling descriptions, and multi-platform social media automation.
 
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5.3.2-purple)
@@ -157,10 +162,6 @@ enhancement_profiles = {
 3. Make your improvements
 4. Test thoroughly
 5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🆘 Support
 
